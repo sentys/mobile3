@@ -9,9 +9,9 @@ import org.junit.runner.RunWith
 import org.junit.Assert.*
 
 /**
- * не палиg6ghyi
+ * не палиg6ghyifghhfgjghcfnhgfn
  *
- * See [testing documentation](http://d.android.com/tools/testing).
+ * See [testing dohjkgjhmgkhbjm,gbhjhjmgcumentation](http://d.android.com/tools/testing).
  */
 @RunWith(AndroidJUnit4::class)
 class ExampleInstrumentedTest {
