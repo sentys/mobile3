@@ -9,7 +9,7 @@ import org.junit.runner.RunWith
 import org.junit.Assert.*
 
 /**
- * не пали
+ * не пали2
  *
  * See [testing documentation](http://d.android.com/tools/testing).
  */
