@@ -21,7 +21,7 @@ class MainActivity : ComponentActivity() {
             DjitTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
-                        name = "Android",
+                        name = "iphone nahren",
                         modifier = Modifier.padding(innerPadding)
                     )
                 }
